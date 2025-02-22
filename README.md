@@ -1,4 +1,4 @@
-# detox
-this is my first git repository.
+# detox.
+The First Resporitary
 <br>
 Author- Dexter
